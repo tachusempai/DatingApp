@@ -1,4 +1,5 @@
 .vscode
 *.dbs
+*.db
 obj
 bin
