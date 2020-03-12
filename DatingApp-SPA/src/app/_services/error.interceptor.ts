@@ -40,3 +40,5 @@ export const ErrorInterceptorProvider = {
     useClass: ErrorInterceptor,
     multi: true
 };
+
+// Here we handle the error in angular, so if I have a question go to cap 53.
